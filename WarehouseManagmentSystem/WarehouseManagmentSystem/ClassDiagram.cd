@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WarehouseManagmentSystem.LoginForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BAABABAAACAAQBwAAACAAQACABAAAAAAAACAAYBEAAg=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseManagmentSystem.MainForm" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQBAABAAACAAABEQAIDAAAgCEAAAgACAAAAAAQRgAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseManagmentSystem.UserForm" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAADQQAACAAQACAAG4BCACAAIAAYAAAAg=</HashCode>
+      <FileName>UserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseManagmentSystem.UserModuleForm" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAQBAAACAAABSIAACABQgiAAAAAAQAAgAAAYBAAAA=</HashCode>
+      <FileName>UserModuleForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseManagmentSystem.CustomerForm" Collapsed="true">
+    <Position X="13" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABQAAACgAQACAAG4BCACAAAEAYQAAAg=</HashCode>
+      <FileName>CustomerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseManagmentSystem.CustomerModuleForm" Collapsed="true">
+    <Position X="13" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAQhAAACACABQIAACAAQgCAAAAAAAAAAACAaBAAAg=</HashCode>
+      <FileName>CustomerModuleForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseManagmentSystem.CustumerButton" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAQAAAAAACAAAACAAAIAAAAAAAAAAgCAAA=</HashCode>
+      <FileName>CustumerButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseManagmentSystem.CategoryForm" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BBAAAAQAACAAABQAAACAAQACAAGwACACAEAQAYAAAAg=</HashCode>
+      <FileName>CategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseManagmentSystem.CategoryModuleForm" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAAAQBABACAAABQIAACAAQgCAAAAAAAAABAAAYBAAAA=</HashCode>
+      <FileName>CategoryModuleForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseManagmentSystem.OrderForm" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACBAQAQACAAABQAAACAAQADAAG4ZyBAAIAAAYAAIAg=</HashCode>
+      <FileName>OrderForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseManagmentSystem.OrderModuleForm" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>8AACQBAEADACAxSIAAC4BSAiAAi4BwSIgAACIaxAAAw=</HashCode>
+      <FileName>OrderModuleForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseManagmentSystem.ProductForm" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAQACAAABQAAACIASACAAG4ByAGAAAAAYAAAAg=</HashCode>
+      <FileName>ProductForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseManagmentSystem.ProductModuleForm" Collapsed="true">
+    <Position X="3.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>FAAAQDAEACAAABQIAACAAQgCAAAAQAAAAAAQAaBIAAg=</HashCode>
+      <FileName>ProductModuleForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
